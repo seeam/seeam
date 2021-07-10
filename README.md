@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seeam
 - 👀 I’m a Product Designer but also interested in coding.
 - 🌱 I’m currently learning Laravel & a bit of MERN stack.
-- 💞️ I’m looking to collaborate on Laravel.
+- 💞️ I’m looking to collaborate on Product Design & User Researchers at this point.
 - 📫 How to reach me ... http://sashoto.com/ 
