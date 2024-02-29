@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @seeam
 - 👀 I’m a Product Designer but also interested in coding.
-- 🌱 I’m currently learning Laravel & a bit of MERN stack.
+- 🌱 I’m currently focusing on Enterprise Solutions & AI Projects
 - 💞️ I’m looking to collaborate on Product Design & User Researchers at this point.
-- 📫 How to reach me ... http://sashoto.com/ 
+- 📫 How to reach me ... sashotoseeam@gmail.com
+- 🌏 My persona website: http://sashoto.com/ 
